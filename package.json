@@ -33,7 +33,7 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "preprocess": "~2.0.0"
+    "preprocess": "https://github.com/Jonasei/preprocess/archive/master.tar.gz"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
